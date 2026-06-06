@@ -26,17 +26,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔏 [Criminal Record Management & Intelligent FIR Automation Platform](https://github.com/Syed-Ashraf)
+### 🔏 [Criminal Record Management & Intelligent FIR Automation Platform](https://github.com/SyedAshrafGufran)
 > End-to-end NLP pipeline with OCR, LLaMA (via Groq), blockchain (Ethereum Sepolia) & IPFS for tamper-proof FIR generation
 > 
 > `FastAPI` `React.js` `LLaMA` `Tesseract OCR` `Blockchain` `IPFS` — **📜 Patent Published**
 
-### 🔒 [RAGit – Privacy-First Offline RAG Framework](https://github.com/Syed-Ashraf)
+### 🔒 [RAGit – Privacy-First Offline RAG Framework](https://github.com/SyedAshrafGufran)
 > Fully offline Retrieval-Augmented Generation using Phi-3 + FAISS with zero cloud dependency
 > 
 > `LangChain` `FAISS` `Phi-3` `Python` `Semantic Search`
 
-### ⚙️ [Devquiz – Developer-Focused Quiz Platform](https://github.com/Syed-Ashraf)
+### ⚙️ [Devquiz – Developer-Focused Quiz Platform](https://github.com/SyedAshrafGufran)
 > MLOps-aligned quiz platform with CI/CD, containerization, and Kubernetes orchestration
 > 
 > `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `CI/CD`
