@@ -87,9 +87,7 @@
 
 <div align="center">
  
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAshrafGufran&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=SyedAshrafGufran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
  
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedAshrafGufran&theme=tokyonight)
  
