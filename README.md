@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Syed Ashraf Gufran
 
-### 🛰️ ML Engineer · Computer Vision · NLP · Geospatial AI
+### 🛰️ ML Engineer · Computer Vision · NLP · Geospatial · Backend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-ashraf-gufran)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashgufran123@gmail.com)
@@ -87,8 +87,8 @@
 
 <div align="center">
 
-![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ashraf&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ashraf&layout=compact&theme=tokyonight&hide_border=true)
+![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAshrafGufran&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAshrafGufran&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
