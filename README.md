@@ -26,17 +26,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔏 [Criminal Record Management & Intelligent FIR Automation Platform](https://github.com/SyedAshrafGufran)
+### 🔏 [Criminal Record Management & Intelligent FIR Automation Platform](https://github.com/SyedAshrafGufran/project)
 > End-to-end NLP pipeline with OCR, LLaMA (via Groq), blockchain (Ethereum Sepolia) & IPFS for tamper-proof FIR generation
 > 
 > `FastAPI` `React.js` `LLaMA` `Tesseract OCR` `Blockchain` `IPFS` — **📜 Patent Published**
 
-### 🔒 [RAGit – Privacy-First Offline RAG Framework](https://github.com/SyedAshrafGufran)
+### 🔒 [RAGit – Privacy-First Offline RAG Framework](https://github.com/SyedAshrafGufran/RAGit)
 > Fully offline Retrieval-Augmented Generation using Phi-3 + FAISS with zero cloud dependency
 > 
 > `LangChain` `FAISS` `Phi-3` `Python` `Semantic Search`
 
-### ⚙️ [Devquiz – Developer-Focused Quiz Platform](https://github.com/SyedAshrafGufran)
+### ⚙️ [Devquiz – Developer-Focused Quiz Platform](https://github.com/SyedAshrafGufran/Devquiz)
 > MLOps-aligned quiz platform with CI/CD, containerization, and Kubernetes orchestration
 > 
 > `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `CI/CD`
@@ -60,7 +60,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Computer Vision & GIS**
+**Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
@@ -74,7 +74,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**Backend & Cloud**
+**Framework and Development**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -86,10 +86,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAshrafGufran&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAshrafGufran&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=SyedAshrafGufran&theme=tokyonight&hide_border=true)
+ 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedAshrafGufran&theme=tokyonight)
+ 
 </div>
 
 ---
